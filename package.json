@@ -27,7 +27,7 @@
     "node.extend": "1.1.3",
     "should": "6.0.3",
     "uuid": "2.0.1",
-    "wkhtmltopdf-installer": "0.1.9"
+    "wkhtmltopdf-installer": "git+https://github.com/dlong500/node-wkhtmltopdf-installer.git#b879628708bfb3b49fb8f02477a411e569c3c86e"
   },
   "devDependencies": {
     "mocha": "2.2.1"
